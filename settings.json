@@ -1,0 +1,128 @@
+{
+  "terminal.integrated.fontSize": 16,
+  "output.smartScroll.enabled": true,
+  "terminal.integrated.fontWeight": "500",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 4,
+  "editor.fontSize": 16,
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 26,
+  "editor.fontFamily": "Fira Code, retina",
+  "terminal.integrated.fontFamily": "Fira Code, Bold",
+  "editor.fontLigatures": true,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true
+  },
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "njk": "html",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "git.enableSmartCommit": true,
+  "liveshare.featureSet": "insiders",
+  "typescript.tsserver.log": "verbose",
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "material-icon-theme.activeIconPack": "nest",
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "stencil": "store",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "useCases": "controller",
+    "providers": "packages",
+    "bild": "core"
+  },
+  "material-icon-theme.files.associations": {
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    "*.proto": "3d",
+    "routes.ts": "Routing"
+  },
+  "git.autofetch": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.largeFileOptimizations": false,
+  "editor.minimap.enabled": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabCompletion": "on",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.decorations.colors": true,
+  "window.zoomLevel": 1,
+  "workbench.productIconTheme": "fluent-icons"
+}
